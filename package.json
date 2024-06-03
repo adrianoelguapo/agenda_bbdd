@@ -1,0 +1,15 @@
+{
+  "name": "agenda-bbdd",
+  "version": "1.0.0",
+  "description": "Agenda de Adriano - Bases de Datos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Adriano",
+  "license": "ISC",
+  "dependencies": {
+    "mysql": "^2.18.1",
+    "readline-sync": "^1.4.10"
+  }
+}
