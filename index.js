@@ -549,8 +549,7 @@ conexion.on('connect', function () {
   console.clear();
   console.log('Conexion establecida correctamente');
   // Llamar a la funcion del login despues de 1s
-  setTimeout (
-    login, 1000);
+  setTimeout (login, 1000);
 });
 
 // Evento error: se ejecuta cuando ocurre un error en la conexion
